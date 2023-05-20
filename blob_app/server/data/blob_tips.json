@@ -1,0 +1,47 @@
+[
+ {
+  "issue_title ": "Inappropriate Language",
+  "issue": "Use of inappropriate or offensive language",
+  "message": "We've noticed that in some of your conversations, you tend to use language that can come across as offensive or inappropriate. We know you probably don't mean to cause any harm, but this can sometimes make others feel uncomfortable...",
+  "description": "Using language that can be hurtful, offensive, or derogatory towards others.",
+  "importance": "Important as it can create a hostile or uncomfortable environment, hurt others' feelings, and damage relationships.",
+  "steps": "Practicing awareness of language use and avoiding using offensive or derogatory language towards others. Apologizing and making amends if offensive language is used. Engaging in cultural sensitivity training can also help broaden one's perspectives and increase cultural competence.",
+  "image": "offensive_language.png"
+ },
+ {
+  "issue_title ": "Empathy",
+  "issue": "Lack of empathy and understanding towards others",
+  "message": "We've noticed that sometimes you seem to have a hard time understanding where other people are coming from, maybe relating to other people's feelings and perspectives. We feel that on the long run, this might lead to misunderstandings, conflicts, and strained relationships.",
+  "description": "Difficulty in understanding and relating to other people's feelings, perspectives, and experiences.",
+  "importance": "Important as it can lead to misunderstandings, conflicts, and strained relationships.",
+  "steps": "Practicing active listening, perspective-taking, and showing genuine interest in others can help increase empathy and understanding towards others. Engaging in cultural diversity training can also help broaden one's perspectives and increase cultural competence.",
+  "image": "lack_of_empathy.png"
+ },
+ {
+  "issue_title ": "Sensitive Topics",
+  "issue": "Bringing up sensitive or controversial topics without regard for the other person's feelings",
+  "message": "We've noticed that sometimes you bring up sensitive or controversial topics without considering how it might impact the other person. Always keep in mind to be mindful of the other person's feelings and boundaries.",
+  "description": "Initiating conversations or bringing up topics that may be sensitive or controversial without considering how the other person may feel about it.",
+  "importance": "Important as it can lead to discomfort, hurt feelings, or even conflict.",
+  "steps": "Practicing awareness of the other person's feelings and perspective before initiating conversations on sensitive or controversial topics. Asking for permission or checking in with the other person before bringing up such topics. Using a respectful and non-judgmental tone when discussing sensitive or controversial topics.",
+  "image": "controversial.png"
+ },
+ {
+  "issue_title ": "Hostile Behavior",
+  "issue": "Engaging in negative or hostile behavior, such as insults or verbal attacks",
+  "message": "We've noticed that sometimes your language or behavior can be hurtful or aggressive towards others. We think it's important to always keep in mind that the best communication is one based on respect and constructiveness.",
+  "description": "Using aggressive, hostile, or negative language towards others.",
+  "importance": "Important as it can create a hostile or uncomfortable environment, hurt others' feelings, and damage relationships.",
+  "steps": "Practicing awareness of one's behavior and language use towards others. Avoiding insults or verbal attacks towards others. Using a respectful and non-judgmental tone when communicating with others, even in times of conflict or disagreement.",
+  "image": "insults.png"
+ },
+ {
+  "issue_title ": "Dismissive",
+  "issue": "Dismissing or belittling the other person's perspective or experiences",
+  "message": "We've noticed that when somebody shares their perspective with you, you tend to interrupt them or dismiss their point of view. We know that you don't mean to come across that way, but we feel tha this might make others feel undervalued and unsupported.",
+  "description": "Dismissing or belittling the other person's feelings, perspectives, or experiences.",
+  "importance": "Important as it can create a hostile or uncomfortable environment, hurt others' feelings, and damage relationships.",
+  "steps": "Practicing active listening and showing genuine interest in others' perspectives and experiences. Avoiding judgment or dismissive language when communicating with others. Using a respectful and non-judgmental tone when discussing differences in perspectives or experiences.",
+  "image": "dismissal.png"
+ }
+]
